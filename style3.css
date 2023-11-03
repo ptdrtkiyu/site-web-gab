@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+    color: white;
+}
+
+.reseau{
+    font-size: 20px;
+}
+.tcp{
+    font-size: 20px;
+}
+
+.p2p{
+    font-size: 20px;
+}

@@ -1,0 +1,32 @@
+body{
+    background-color: black;
+  
+    color: white;
+}
+h1{
+    color: orange;
+}
+.codage{
+    font-size: 30px;
+}
+.reseau{
+    font-size: 30px;
+}
+
+@media screen and (max-width: 450px) {
+    body{
+        width: 90%;
+    }
+}   
+
+.upload{
+    font-size: 30px;
+
+}
+.admin{
+    font-size: 30px;
+
+}
+.delete{
+    font-size: 30px;
+}

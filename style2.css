@@ -1,0 +1,34 @@
+body{
+    background-color: black;
+    color: white;
+    
+
+}
+
+h1{
+    color: #ff9100
+}
+img{
+    float: left;    
+}
+.letitre{
+    font-size: 50px;
+}
+.text{
+    font-size: 10px;
+    text-align: center;
+
+}
+.IA{
+    font-size: 20px;
+}
+.sql{
+    font-size: 20px;
+}
+.python{
+    font-size: 20px;
+}
+.imagesql{
+    position: relative;
+    top: -5px; 
+}
